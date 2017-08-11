@@ -1,0 +1,6 @@
+framework module CollabUI {
+  umbrella header "CollabUI.h"
+
+  export *
+  module * { export * }
+}
